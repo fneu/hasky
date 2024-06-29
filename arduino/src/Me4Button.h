@@ -1,4 +1,4 @@
-﻿/**
+/**
  * \par Copyright (C), 2012-2016, MakeBlock
  * \class   Me4Button
  * \brief   Driver for Me 4 Button module.
